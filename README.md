@@ -8,3 +8,5 @@ This tutorial includes instructions about how to use the following tools:
 - [Vagrant](https://www.vagrantup.com/)
 - [PipEnv](https://github.com/pypa/pipenv)
 - [Django](https://www.djangoproject.com/)
+
+[![My Skills](https://skills.thijs.gg/icons?i=py,html&theme=light)](https://skills.thijs.gg)
